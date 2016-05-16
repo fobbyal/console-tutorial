@@ -1,0 +1,23 @@
+console.log('logging');
+console.warn('warn');
+console.info('info log');
+console.error('error');
+console.debug('debug');
+ 
+
+
+for(; i< 100 ;i++)
+console.log('value', i);
+
+ 
+
+//formatters
+//%s %d %o %c color:red; font-size: 44px;
+
+// console.group('logging group');
+// console.log('level1');
+// console.group('level2');
+// console.log('value');
+// conslee.groupEnd();
+// console.groupEnd(); 
+
